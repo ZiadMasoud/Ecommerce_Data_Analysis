@@ -29,6 +29,3 @@ Visualizations were created using Matplotlib in the Jupyter notebook `Task_9_Not
 
 ## Conclusion
 The analysis provided valuable insights into customer purchasing patterns and sales trends, which can be used to make informed business decisions.
-=======
-
->>>>>>> eaf66b49a7b6a4e9e3957a09a0065a10442f8a75
