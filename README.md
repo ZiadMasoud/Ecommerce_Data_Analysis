@@ -9,7 +9,7 @@
 - [Visualization](#visualization)
 - [Conclusion](#conclusion)
 
-![Visualization](src\Screenshot 2025-03-10 234002.png)
+![Visualization](src/Screenshot 2025-03-10 234002.png)
 
 ## Introduction
 This project involves analyzing ecommerce data to uncover insights and trends. The goal is to understand customer behavior, sales performance, and other key metrics. This project is part of the DEPI Diploma tasks.
