@@ -1,5 +1,8 @@
 # Ecommerce-Data-Analysis
 
+![Visualization](src/Dashboard_.png)
+
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Data Collection](#data-collection)
@@ -8,8 +11,6 @@
 - [SQL Analysis](#sql-analysis)
 - [Visualization](#visualization)
 - [Conclusion](#conclusion)
-
-![Visualization](src/Dashboard_.png)
 
 ## Introduction
 This project involves analyzing ecommerce data to uncover insights and trends. The goal is to understand customer behavior, sales performance, and other key metrics. This project is part of the DEPI Diploma tasks.
